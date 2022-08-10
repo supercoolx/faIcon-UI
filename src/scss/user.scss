@@ -1,0 +1,27 @@
+@import "../../node_modules/bootstrap/scss/_functions";
+@import "theme/functions";
+
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "theme/mixins";
+
+@import "user-variables";
+@import "theme/variables";
+@import "../../node_modules/bootstrap/scss/variables";
+
+// 
+// 
+// user.scss
+//
+// Place your own theme CSS or SCSS rules below this line, these rules will override any Bootstrap and theme variables.
+
+
+// $success: rgb(0, 210, 122);
+// $danger: rgb(230, 55, 87);
+// :root, :root.light, :root .light {
+//   --falcon-primary:  #{$success};
+//   --falcon-primary-rgb: #{to-rgb($success)};
+// }
+// .dark{
+//   --falcon-primary: #{$danger};
+//   --falcon-primary-rgb: #{to-rgb($danger)};
+// }
