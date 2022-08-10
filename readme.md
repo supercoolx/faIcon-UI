@@ -1,5 +1,5 @@
-# faIcon UI
+#### Thank you for using Falcon.
 
-## Live Demo
+For getting started, visit: https://prium.github.io/falcon/v2.8.2/default/documentation/getting-started.html
 
-https://prium.github.io/falcon/
+Happy editing!
